@@ -1,0 +1,27 @@
+{
+  "name": "sticky-notes-app",
+  "version": "1.0.0",
+  "description": "I used my knowledge of React, stateful components, and lifecycle methods to create a sticky notes app that saves the user's notes to state so that they will be re-rendered even when the user closes and re-opens the tab.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
